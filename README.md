@@ -1,7 +1,6 @@
 # Teaboom — карточка товара
-[![GitHub last commit](https://img.shields.io/github/last-commit/diemeoow/japan)](https://github.com/diemeoow/japan/commits/main)
-[![GitHub license](https://img.shields.io/github/license/diemeoow/japan)](https://github.com/diemeoow/japan/blob/main/LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://diemeoow.github.io/japan)
+[![GitHub last commit](https://img.shields.io/github/last-commit/diemeoow/teaboom-card)](https://github.com/diemeoow/japan/commits/main)
+[![GitHub Pages](https://img.shields.io/badge/demo-online-green)](https://diemeoow.github.io/teaboom-card)
 
 Тестовое задание для Teaboom: адаптивная карточка товара «Ананасовый улун».
 
